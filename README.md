@@ -1,4 +1,5 @@
 # InjectFile v1.0
+[![Download](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/kuzminall386-sudo/inject-file/releases/download/v1.0.0/InjectFilex32.exe)
 
 Утилита для внедрения данных из одного файла в другой с возможностью задания смещений и размеров. Реализована на Delphi, поставляется как консольный исполняемый файл (`InjectFilex32.exe`).
 
