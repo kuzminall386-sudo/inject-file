@@ -36,8 +36,7 @@
 Например, если `-x=16` и `-a=0x10`, фактическое смещение во входном файле будет `0x10 * 16 = 0x100`.
 
 ## Примеры bat
-1: InjectFilex32.exe -i=File1.bin -a=3 -c=10 -o=File2.bin -b=1 -l=512
-2: InjectFilex32.exe -i=File1.bin -o=File2.bin -b=1 -l=512
+InjectFilex32.exe -i=File1.bin -a=3 -c=10 -o=File2.bin -b=1 -l=512
 
 ## Условность
 File1.bin = 512 байт <<сектор>>
